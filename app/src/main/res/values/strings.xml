@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sígueme</string>
+    <string name="GetStarted_btn_txt">Get Started</string>
+    <string name="subHeading_txt">-The only app to help you in need-</string>
+    <string name="AddSubTxt">Add Subscriber</string>
+    <string name="SubProfilestxt">Subscriber Profiles</string>
+    <string name="whatneedTxt">What Do You Need From Me ?</string>
+    <string name="nametxt">Name</string>
+    <string name="relationshiptxt">Relationship</string>
+    <string name="Contacttxt">Contact Number</string>
+    <string name="addSubinfo">Add Subscriber Info Below</string>
+    <string name="addtxt">Add</string>
+    <string name="removetxt">Remove</string>
+    <string name="BatteryStatustxt">Battery Status Info</string>
+    <string name="subscribetoservicestxt">Subscribe To Services Below</string>
+    <string name="Signalstrengthtxt">Signal Strength Status</string>
+</resources>
